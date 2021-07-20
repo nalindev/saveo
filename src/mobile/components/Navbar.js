@@ -45,7 +45,7 @@ function Navbar() {
 
 
 <nav>
-   <Link to='/' onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
+   <Link to='/saveo' onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
    Home
    </Link>
    <Link to='/login' onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
