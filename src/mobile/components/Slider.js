@@ -1,26 +1,48 @@
-import React from 'react';
 
-import { Swiper, SwiperSlide } from 'swiper/react';
+import React, { useRef, useState } from "react";
+// Import Swiper React components
+import { Swiper, SwiperSlide } from "swiper/react";
 
-import 'swiper/swiper-bundle.css';
+// Import Swiper styles
+import "swiper/swiper.min.css";
+import "swiper/components/pagination/pagination.min.css"
+import "swiper/components/navigation/navigation.min.css"
+
+import "./slide.css";
+
+import SwiperCore, { Autoplay,Pagination,Navigation } from 'swiper/core';
+
+SwiperCore.use([Autoplay,Pagination,Navigation]);
 
 
-function Slider() {
-    const slides = [];
-
-    for(let i = 0; i < 5; i+=1){
-        slides.push(
-            <SwiperSlide key = {`slide=${i}` }>
-                <img src={`https://picsum.photos/id/${i+1}/500/300`} alt={`slide ${i}`} />
-            </SwiperSlide>
-        );
-    }
-
-    return <React.Fragment>
-        <Swiper id="main">
-            {slides}
-        </Swiper>
-    </React.Fragment>
+export default function Slider() {
+    return (
+    <>
+    <Swiper spaceBetween={30} centeredSlides={true} autoplay={{
+  "delay": 1500,
+  "disableOnInteraction": false
+}} pagination={{
+  "clickable": true
+}} navigation={false} className="mySwiper">
+  <SwiperSlide>
+      <img src={`https://s3.ap-south-1.amazonaws.com/images.saveo.in/GST-Price-Drop_Final.gif`} style={{ listStyle: 'none' }} alt="price drop"/>
+    </SwiperSlide>
+    <SwiperSlide>
+    <img src={`https://s3.ap-south-1.amazonaws.com/images.saveo.in/Generic+Sale+Top+Banner.jpeg`} style={{ listStyle: 'none' }} alt="price drop"/>
+    </SwiperSlide>
+    <SwiperSlide>
+    <img src={`https://s3.ap-south-1.amazonaws.com/images.saveo.in/Azicip-500mg_Banner.jpg`} style={{ listStyle: 'none' }} alt="price drop"/>
+    </SwiperSlide>
+    <SwiperSlide>
+    <img src={`https://s3.ap-south-1.amazonaws.com/images.saveo.in/Zystus_App_Banner_New.jpg`} style={{ listStyle: 'none' }} alt="price drop"/>
+    </SwiperSlide>
+    <SwiperSlide>
+    <img src={`https://s3.ap-south-1.amazonaws.com/images.saveo.in/Corona_Banner.jpg`} style={{ listStyle: 'none' }} alt="price drop"/>
+    </SwiperSlide>
+    <SwiperSlide>
+    <img src={`https://s3.ap-south-1.amazonaws.com/images.saveo.in/Manmatter_Live_Banner_rev.gif`} style={{ listStyle: 'none' }} alt="price drop"/>
+    </SwiperSlide>
+  </Swiper>
+    </>
+  )
 }
-
-export default Slider;
