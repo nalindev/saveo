@@ -18,7 +18,7 @@ SwiperCore.use([Autoplay,Pagination,Navigation]);
 export default function Slider() {
     return (
     <>
-    <Swiper spaceBetween={30} centeredSlides={true} autoplay={{
+    <Swiper spaceBetween={0} centeredSlides={true} autoplay={{
   "delay": 1500,
   "disableOnInteraction": false
 }} pagination={{
