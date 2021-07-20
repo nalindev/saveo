@@ -8,7 +8,6 @@ function Navbar() {
     
     return (
         <>
-<div className="relative min-h-screen md:fles">
    <div className="bg-purple-600 text-gray-50 flex justify-between md:hidden">
       <a className="text-white flex items-center space-x-2 block p-4">
          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-wallet" viewBox="0 0 16 16">
@@ -69,7 +68,6 @@ function Navbar() {
       </span>
       <input id="search" name="search" type="text" placeholder="search for Products, Brands and More" required  className="text-sm pl-10 w-full border border-gray-300 px-3 py-2 rounded-sm shadow-sm focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-green-500" />
    </div>
-</div>
 </div>
         </>
     )
