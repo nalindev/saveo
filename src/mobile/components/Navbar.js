@@ -48,15 +48,15 @@ function Navbar() {
    <Link to='/saveo' onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
    Home
    </Link>
-   <Link to='/login' onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
-   About
+   <Link to='/comapnies' onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
+   500+ comapnies
    </Link>
-   <a href="" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
-   Features
-   </a>
-   <a href="" className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
-   Pricing
-   </a>
+   <Link to="/offer" onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
+   special offer
+   </Link>
+   <Link to="pastorder" onClick={showSidebar} className="block py-2.5 px-4 rounded transition duration-200 hover:bg-purple-700 hover:text-white">
+   Past Order
+   </Link>
 </nav>
 </div>
 <div className="bg-purple-600">
