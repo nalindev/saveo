@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/saveo/static/css/main.d2f25564.chunk.css",
-    "main.js": "/saveo/static/js/main.733bfe83.chunk.js",
-    "main.js.map": "/saveo/static/js/main.733bfe83.chunk.js.map",
+    "main.js": "/saveo/static/js/main.c4f38abc.chunk.js",
+    "main.js.map": "/saveo/static/js/main.c4f38abc.chunk.js.map",
     "runtime-main.js": "/saveo/static/js/runtime-main.59c1346d.js",
     "runtime-main.js.map": "/saveo/static/js/runtime-main.59c1346d.js.map",
     "static/css/2.0d5eca20.chunk.css": "/saveo/static/css/2.0d5eca20.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.0d5eca20.chunk.css",
     "static/js/2.e52af530.chunk.js",
     "static/css/main.d2f25564.chunk.css",
-    "static/js/main.733bfe83.chunk.js"
+    "static/js/main.c4f38abc.chunk.js"
   ]
 }
