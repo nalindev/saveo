@@ -40,6 +40,24 @@ function Card(){
                <div class="boxsizing">
                    <img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjY1IiBoZWlnaHQ9IjI2NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
                </div>
+               <img alt="generic" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/IMG_1626350698802_11032229_SAVEOMED.jpeg" class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
+            </div>
+         </div>
+         <div class=" px-6 py-4">
+            <h2 class="text-sm font-semibold truncate text-gray-800">Burnheal Cream 15G</h2>
+            <p class="text-body text-xs lg:text-sm leading-normal xl:leading-relaxed max-w-[250px] truncate">Generic - 1 Units</p>
+            <div class="mt-4">
+            <div class="text-heading text-indigo-500 font-semibold sm:text-base mt-1.5 space-s-2 text-xs md:text-base  md:mt-2.5 2xl:mt-3"><span class="text-xs inline-block">PTR ₹ 26.46</span><br /><span class="sm:text-base text-xs font-normal text-gray-800">MRP ₹ 74.50</span></div>
+            </div>
+         </div>
+      </div>
+
+      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="generic">
+         <div class="flex flex-shrink-0 w-32 sm:w-44 md:w-40 lg:w-52 2xl:w-56 3xl:w-64">
+            <div class="cardimg">
+               <div class="boxsizing">
+                   <img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjY1IiBoZWlnaHQ9IjI2NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
+               </div>
                <img alt="generic" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/CS00050_Coronasafety_11011007.png"class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
             </div>
          </div>
@@ -72,23 +90,7 @@ function Card(){
       </div>
 
 
-      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="generic">
-         <div class="flex flex-shrink-0 w-32 sm:w-44 md:w-40 lg:w-52 2xl:w-56 3xl:w-64">
-            <div class="cardimg">
-               <div class="boxsizing">
-                   <img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjY1IiBoZWlnaHQ9IjI2NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
-               </div>
-               <img alt="generic" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/IMG_1626350698802_11032229_SAVEOMED.jpeg" class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
-            </div>
-         </div>
-         <div class=" px-6 py-4">
-            <h2 class="text-sm font-semibold truncate text-gray-800">Burnheal Cream 15G</h2>
-            <p class="text-body text-xs lg:text-sm leading-normal xl:leading-relaxed max-w-[250px] truncate">Generic - 1 Units</p>
-            <div class="mt-4">
-            <div class="text-heading text-indigo-500 font-semibold sm:text-base mt-1.5 space-s-2 text-xs md:text-base  md:mt-2.5 2xl:mt-3"><span class="text-xs inline-block">PTR ₹ 26.46</span><br /><span class="sm:text-base text-xs font-normal text-gray-800">MRP ₹ 74.50</span></div>
-            </div>
-         </div>
-      </div>
+      
 
       
 </div>
