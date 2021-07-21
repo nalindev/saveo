@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/saveo/static/css/main.da503e7b.chunk.css",
-    "main.js": "/saveo/static/js/main.9ddb0117.chunk.js",
-    "main.js.map": "/saveo/static/js/main.9ddb0117.chunk.js.map",
+    "main.css": "/saveo/static/css/main.d2f25564.chunk.css",
+    "main.js": "/saveo/static/js/main.89c67395.chunk.js",
+    "main.js.map": "/saveo/static/js/main.89c67395.chunk.js.map",
     "runtime-main.js": "/saveo/static/js/runtime-main.59c1346d.js",
     "runtime-main.js.map": "/saveo/static/js/runtime-main.59c1346d.js.map",
     "static/css/2.0d5eca20.chunk.css": "/saveo/static/css/2.0d5eca20.chunk.css",
-    "static/js/2.925a006a.chunk.js": "/saveo/static/js/2.925a006a.chunk.js",
-    "static/js/2.925a006a.chunk.js.map": "/saveo/static/js/2.925a006a.chunk.js.map",
+    "static/js/2.e52af530.chunk.js": "/saveo/static/js/2.e52af530.chunk.js",
+    "static/js/2.e52af530.chunk.js.map": "/saveo/static/js/2.e52af530.chunk.js.map",
     "index.html": "/saveo/index.html",
     "static/css/2.0d5eca20.chunk.css.map": "/saveo/static/css/2.0d5eca20.chunk.css.map",
-    "static/css/main.da503e7b.chunk.css.map": "/saveo/static/css/main.da503e7b.chunk.css.map",
-    "static/js/2.925a006a.chunk.js.LICENSE.txt": "/saveo/static/js/2.925a006a.chunk.js.LICENSE.txt"
+    "static/css/main.d2f25564.chunk.css.map": "/saveo/static/css/main.d2f25564.chunk.css.map",
+    "static/js/2.e52af530.chunk.js.LICENSE.txt": "/saveo/static/js/2.e52af530.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.59c1346d.js",
     "static/css/2.0d5eca20.chunk.css",
-    "static/js/2.925a006a.chunk.js",
-    "static/css/main.da503e7b.chunk.css",
-    "static/js/main.9ddb0117.chunk.js"
+    "static/js/2.e52af530.chunk.js",
+    "static/css/main.d2f25564.chunk.css",
+    "static/js/main.89c67395.chunk.js"
   ]
 }
