@@ -16,13 +16,13 @@ function Card(){
    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-5 xl:gap-7 xl:-mt-1.5 2xl:mt-0">
        
        
-      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="Maniac Red Boys">
+      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="generic">
          <div class="flex flex-shrink-0 w-32 sm:w-44 md:w-40 lg:w-52 2xl:w-56 3xl:w-64">
             <div class="cardimg">
                <div class="boxsizing">
                    <img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjY1IiBoZWlnaHQ9IjI2NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
                </div>
-               <img alt="Maniac Red Boys" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/IMG_1610006417774_5e4d35e22516b4391d8551c8_SAVEOMED.jpg" class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
+               <img alt="generic" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/IMG_1610006417774_5e4d35e22516b4391d8551c8_SAVEOMED.jpg" class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
             </div>
          </div>
          <div class=" px-6 py-4">
@@ -34,13 +34,13 @@ function Card(){
          </div>
       </div>
 
-      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="Maniac Red Boys">
+      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="generic">
          <div class="flex flex-shrink-0 w-32 sm:w-44 md:w-40 lg:w-52 2xl:w-56 3xl:w-64">
             <div class="cardimg">
                <div class="boxsizing">
                    <img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjY1IiBoZWlnaHQ9IjI2NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
                </div>
-               <img alt="Maniac Red Boys" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/CS00050_Coronasafety_11011007.png"class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
+               <img alt="generic" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/CS00050_Coronasafety_11011007.png"class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
             </div>
          </div>
          <div class=" px-6 py-4">
@@ -53,20 +53,39 @@ function Card(){
       </div>
 
 
-      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="Maniac Red Boys">
+      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="generic">
          <div class="flex flex-shrink-0 w-32 sm:w-44 md:w-40 lg:w-52 2xl:w-56 3xl:w-64">
             <div class="cardimg">
                <div class="boxsizing">
                    <img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjY1IiBoZWlnaHQ9IjI2NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
                </div>
-               <img alt="Maniac Red Boys" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/IMG_1610006417774_5e4d35e22516b4391d8551c8_SAVEOMED.jpg" class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
+               <img alt="generic" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/IMG_1626344387994_11012423_SAVEOMED.png" class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
             </div>
          </div>
          <div class=" px-6 py-4">
-            <h2 class="text-sm font-semibold truncate text-gray-800">Vasograin Tabs 14's</h2>
-            <p class="text-body text-xs lg:text-sm leading-normal xl:leading-relaxed max-w-[250px] truncate">Cadila Pharma 14's - 6384 Units</p>
+            <h2 class="text-sm font-semibold truncate text-gray-800">Pantosec 40MG</h2>
+            <p class="text-body text-xs lg:text-sm leading-normal xl:leading-relaxed max-w-[250px] truncate">Generic - 188 Units</p>
             <div class="mt-4">
-            <div class="text-heading text-indigo-500 font-semibold sm:text-base mt-1.5 space-s-2 text-xs md:text-base  md:mt-2.5 2xl:mt-3"><span class="text-xs inline-block">PTR ₹ 80.50</span><br /><span class="sm:text-base text-xs font-normal text-gray-800">MRP ₹ 112.70</span></div>
+            <div class="text-heading text-indigo-500 font-semibold sm:text-base mt-1.5 space-s-2 text-xs md:text-base  md:mt-2.5 2xl:mt-3"><span class="text-xs inline-block">PTR ₹ 15.50</span><br /><span class="sm:text-base text-xs font-normal text-gray-800">MRP ₹ 118.65</span></div>
+            </div>
+         </div>
+      </div>
+
+
+      <div class="group box-border overflow-hidden flex cursor-pointer hover:shadow-2xl flex-row items-center transition-transform ease-linear bg-white rounded-lg shadow-lg pe-2 lg:pe-3 2xl:pe-4" role="button" title="generic">
+         <div class="flex flex-shrink-0 w-32 sm:w-44 md:w-40 lg:w-52 2xl:w-56 3xl:w-64">
+            <div class="cardimg">
+               <div class="boxsizing">
+                   <img alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjY1IiBoZWlnaHQ9IjI2NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" />
+               </div>
+               <img alt="generic" src="https://s3.ap-south-1.amazonaws.com/images.saveo.in/IMG_1626350698802_11032229_SAVEOMED.jpeg" class="boxinner bg-gray-300 object-cover rounded-s-md rounded-s-md transition duration-200 ease-linear transform group-hover:scale-105" />
+            </div>
+         </div>
+         <div class=" px-6 py-4">
+            <h2 class="text-sm font-semibold truncate text-gray-800">Burnheal Cream 15G</h2>
+            <p class="text-body text-xs lg:text-sm leading-normal xl:leading-relaxed max-w-[250px] truncate">Generic - 1 Units</p>
+            <div class="mt-4">
+            <div class="text-heading text-indigo-500 font-semibold sm:text-base mt-1.5 space-s-2 text-xs md:text-base  md:mt-2.5 2xl:mt-3"><span class="text-xs inline-block">PTR ₹ 26.46</span><br /><span class="sm:text-base text-xs font-normal text-gray-800">MRP ₹ 74.50</span></div>
             </div>
          </div>
       </div>
