@@ -6,6 +6,7 @@ import Login from './mobile/pages/Login';
 import Offer from './mobile/pages/Offer';
 import Pastorder from './mobile/pages/Pastorder';
 import Footer from './mobile/components/Footer';
+import Index from './laptop/Index';
 import {isMobile} from 'react-device-detect';
 
 function App() {
@@ -25,7 +26,9 @@ function App() {
       </>
     );
   }else{
-    return <h1>Laptop view is currently not Supported</h1>;
+    return (
+      <Index />
+    );
   }
 }
 
